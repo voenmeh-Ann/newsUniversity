@@ -31,7 +31,7 @@
          
         <h1>НОВОСТИ ИЗ МИРА БОКСА</h1>
         
-        <a href="login.php"><img src="logo.png" alt="#"></a>
+        <a href="login.html"><img src="logo.png" alt="#"></a>
        </div>
        
        <h2>Главные новости:</h2>       
