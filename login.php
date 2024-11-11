@@ -1,6 +1,3 @@
-<?php
-    require_once 'connect.php';
-?>
 <!DOCTYPE html>
 <html lang="en" style="background: #EFEDFF; height: 1000px">
     <head>
